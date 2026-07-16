@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints/
+results/
+final_model/
+venv2/
+runs/
+huggingfaceexport.ipynb
+phishing_email.csv
